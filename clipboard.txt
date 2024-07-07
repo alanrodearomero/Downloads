@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "cursor": <string>,
+    "count": <int>
+  },
+  "data": {
+    <PRIVATE_ANALYSIS_OBJECT>,
+    <PRIVATE_ANALYSIS_OBJECT>,
+    ...
+  },
+  "links": {
+    "self": <string>,
+    "next": <string>
+  }
+}
